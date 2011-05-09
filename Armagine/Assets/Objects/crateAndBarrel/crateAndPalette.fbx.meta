@@ -1,0 +1,235 @@
+fileFormatVersion: 1
+guid: 020e4e6bbd112e44d000996a8d76c639
+ModelImporter:
+  importerVersion: 7
+  meshes:
+    scaleFactor: 1
+    useFileUnits: 1
+    meshCompression: 0
+    generateColliders: 0
+    swapUVs: 0
+  tangentSpace:
+    normalImportMode: 1
+    tangentImportMode: 1
+    smoothingAngle: 60
+    splitTangents: 0
+  materials:
+    generation: 1
+  animations:
+    generation: 3
+    bakeAnimations: 0
+    animationCompression: 1
+    animationWrapMode: 0
+    splitAnimations: 1
+  nodeInfo:
+    pCube1:
+    - 100000
+    - 400000
+    transform3:
+    - 100002
+    - 400002
+    - 3300000
+    - 2300000
+    pCube2:
+    - 100004
+    - 400004
+    transform4:
+    - 100006
+    - 400006
+    - 3300002
+    - 2300002
+    pCube3:
+    - 100008
+    - 400008
+    transform5:
+    - 100010
+    - 400010
+    - 3300004
+    - 2300004
+    pCube4:
+    - 100012
+    - 400012
+    transform7:
+    - 100014
+    - 400014
+    - 3300006
+    - 2300006
+    pCube5:
+    - 100016
+    - 400016
+    transform6:
+    - 100018
+    - 400018
+    - 3300008
+    - 2300008
+    pCube6:
+    - 100020
+    - 400020
+    transform8:
+    - 100022
+    - 400022
+    - 3300010
+    - 2300010
+    pCube7:
+    - 100024
+    - 400024
+    transform9:
+    - 100026
+    - 400026
+    - 3300012
+    - 2300012
+    pCube8:
+    - 100028
+    - 400028
+    transform10:
+    - 100030
+    - 400030
+    - 3300014
+    - 2300014
+    pCube9:
+    - 100032
+    - 400032
+    transform2:
+    - 100034
+    - 400034
+    - 3300016
+    - 2300016
+    pCube10:
+    - 100036
+    - 400036
+    transform1:
+    - 100038
+    - 400038
+    - 3300018
+    - 2300018
+    polySurface1:
+    - 100040
+    - 400040
+    - 3300020
+    - 2300020
+    crateSmall_pCube1:
+    - 100042
+    - 400042
+    - 3300022
+    - 2300022
+    crateSmall_pCube2:
+    - 100044
+    - 400044
+    - 3300024
+    - 2300024
+    crateSmall_pCube3:
+    - 100046
+    - 400046
+    - 3300026
+    - 2300026
+    crateSmall_pCube6:
+    - 100048
+    - 400048
+    - 3300028
+    - 2300028
+    crateSmall_pCube7:
+    - 100050
+    - 400050
+    - 3300030
+    - 2300030
+    crateSmall_pCube8:
+    - 100052
+    - 400052
+    - 3300032
+    - 2300032
+    crateSmall_pCube10:
+    - 100054
+    - 400054
+    - 3300034
+    - 2300034
+    crateSmall_pCube11:
+    - 100056
+    - 400056
+    - 3300036
+    - 2300036
+    crateSmall_pCube12:
+    - 100058
+    - 400058
+    - 3300038
+    - 2300038
+    crateSmall_pCube13:
+    - 100060
+    - 400060
+    - 3300040
+    - 2300040
+    crateSmall_pCube14:
+    - 100062
+    - 400062
+    - 3300042
+    - 2300042
+    crateSmall_pCube15:
+    - 100064
+    - 400064
+    - 3300044
+    - 2300044
+    crateSmall_pCube16:
+    - 100066
+    - 400066
+    - 3300046
+    - 2300046
+    crateSmall_pCube17:
+    - 100068
+    - 400068
+    - 3300048
+    - 2300048
+    crateSmall_pCube18:
+    - 100070
+    - 400070
+    - 3300050
+    - 2300050
+    crateSmall_pCube19:
+    - 100072
+    - 400072
+    - 3300052
+    - 2300052
+    crateSmall_pCube20:
+    - 100074
+    - 400074
+    - 3300054
+    - 2300054
+    crateSmall_pCube21:
+    - 100076
+    - 400076
+    - 3300056
+    - 2300056
+    //RootNode:
+    - 100078
+    - 400078
+    - 11100000
+AssetImporter:
+  importerVersion: 1
+  fileIDToRecycleName:
+    4300000: transform3
+    4300002: transform4
+    4300004: transform5
+    4300006: transform7
+    4300008: transform6
+    4300010: transform8
+    4300012: transform9
+    4300014: transform10
+    4300016: transform2
+    4300018: transform1
+    4300020: polySurface1
+    4300022: crateSmall_pCube1
+    4300024: crateSmall_pCube2
+    4300026: crateSmall_pCube3
+    4300028: crateSmall_pCube6
+    4300030: crateSmall_pCube7
+    4300032: crateSmall_pCube8
+    4300034: crateSmall_pCube10
+    4300036: crateSmall_pCube11
+    4300038: crateSmall_pCube12
+    4300040: crateSmall_pCube13
+    4300042: crateSmall_pCube14
+    4300044: crateSmall_pCube15
+    4300046: crateSmall_pCube16
+    4300048: crateSmall_pCube17
+    4300050: crateSmall_pCube18
+    4300052: crateSmall_pCube19
+    4300054: crateSmall_pCube20
+    4300056: crateSmall_pCube21

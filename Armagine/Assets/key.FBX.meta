@@ -1,0 +1,42 @@
+fileFormatVersion: 1
+guid: 727e6a4ddb0c31d439a30ab93f8f521f
+ModelImporter:
+  importerVersion: 7
+  meshes:
+    scaleFactor: 0.01
+    useFileUnits: 1
+    meshCompression: 0
+    generateColliders: 0
+    swapUVs: 0
+  tangentSpace:
+    normalImportMode: 0
+    tangentImportMode: 1
+    smoothingAngle: 60
+    splitTangents: 1
+  materials:
+    generation: 1
+  animations:
+    generation: 3
+    bakeAnimations: 0
+    animationCompression: 1
+    animationWrapMode: 0
+    splitAnimations: 1
+  nodeInfo:
+    //RootNode:
+    - 100000
+    - 400000
+    - 3300000
+    - 2300000
+    - 11100000
+AssetImporter:
+  importerVersion: 1
+  fileIDToRecycleName:
+    4300000: key2
+    4300002: Box006
+    4300004: Box007
+    4300006: Box008
+    4300008: Box009
+    4300010: Box010
+    4300012: Box011
+    4300014: Cylinder001
+    4300016: Pyramid001

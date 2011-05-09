@@ -1,0 +1,73 @@
+fileFormatVersion: 1
+guid: 6d46072be56442a4eb9ba228f16c8b6c
+ModelImporter:
+  importerVersion: 7
+  meshes:
+    scaleFactor: 0.01
+    useFileUnits: 1
+    meshCompression: 0
+    generateColliders: 1
+    swapUVs: 0
+  tangentSpace:
+    normalImportMode: 0
+    tangentImportMode: 1
+    smoothingAngle: 60
+    splitTangents: 1
+  materials:
+    generation: 1
+  animations:
+    generation: 3
+    bakeAnimations: 0
+    animationCompression: 1
+    animationWrapMode: 0
+    splitAnimations: 1
+  nodeInfo:
+    //RootNode:
+    - 100000
+    - 400000
+    - 11100000
+    Box015:
+    - 100002
+    - 400002
+    - 3300000
+    - 2300000
+    - 6400008
+    Box017:
+    - 100004
+    - 400004
+    - 3300002
+    - 2300002
+    - 6400010
+    Box018:
+    - 100006
+    - 400006
+    - 3300004
+    - 2300004
+    - 6400000
+    Box011:
+    - 100008
+    - 400008
+    - 3300006
+    - 2300006
+    - 6400006
+    Box013:
+    - 100010
+    - 400010
+    - 3300008
+    - 2300008
+    - 6400002
+    Box016:
+    - 100012
+    - 400012
+    - 3300010
+    - 2300010
+    - 6400004
+AssetImporter:
+  importerVersion: 1
+  fileIDToRecycleName:
+    4300000: Box011
+    4300002: Box013
+    4300004: Box015
+    4300006: Box016
+    4300008: Box017
+    4300010: Box018

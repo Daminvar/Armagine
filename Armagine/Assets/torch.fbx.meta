@@ -1,0 +1,65 @@
+fileFormatVersion: 1
+guid: 61bfe7c7c9c74b14c960ab7f3e9a1746
+ModelImporter:
+  importerVersion: 7
+  meshes:
+    scaleFactor: 0.01
+    useFileUnits: 1
+    meshCompression: 0
+    generateColliders: 0
+    swapUVs: 0
+  tangentSpace:
+    normalImportMode: 0
+    tangentImportMode: 1
+    smoothingAngle: 60
+    splitTangents: 1
+  materials:
+    generation: 1
+  animations:
+    generation: 3
+    bakeAnimations: 0
+    animationCompression: 1
+    animationWrapMode: 0
+    splitAnimations: 1
+  nodeInfo:
+    //RootNode:
+    - 100000
+    - 400000
+    - 11100000
+    nurbsTorus1:
+    - 100002
+    - 400002
+    loftedSurface2:
+    - 100004
+    - 400004
+    - 3300000
+    - 2300000
+    Pyramid001:
+    - 100006
+    - 400006
+    - 3300002
+    - 2300002
+    planarTrimmedSurface3:
+    - 100008
+    - 400008
+    - 3300004
+    - 2300004
+    extrudedSurface1:
+    - 100010
+    - 400010
+    revolvedSurface1:
+    - 100012
+    - 400012
+    - 3300006
+    - 2300006
+    planarTrimmedSurface4:
+    - 100014
+    - 400014
+AssetImporter:
+  importerVersion: 1
+  fileIDToRecycleName:
+    4300000: loftedSurface2
+    4300002: planarTrimmedSurface3
+    4300004: revolvedSurface1
+    4300006: Pyramid001
+    7400000: Take 001 //// torch
