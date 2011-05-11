@@ -1,0 +1,8 @@
+C:\Documents and Settings\Dink Thompson\Desktop\TurboSquidFiles\architecture\castle\t$m$p$$$\castle_tower.max
+C:\Documents and Settings\Dink Thompson\Desktop\TurboSquidFiles\architecture\castle\t$m$p$$$\MAXFILES.TXT
+C:\00_Reference\Max disc stuff\ArtbeatsFilmLibrary\Textures\Exteriors\Bump Maps\Common 5 BM-256.bmp
+C:\Documents and Settings\Dink Thompson\Desktop\TurboSquidFiles\architecture\textures\roof_tiles.jpg
+C:\Documents and Settings\Dink Thompson\Desktop\TurboSquidFiles\architecture\textures\roof_tiles BUMP.jpg
+C:\Documents and Settings\Dink Thompson\Desktop\TurboSquidFiles\architecture\textures\LIMESTO3.JPG
+C:\Documents and Settings\Dink Thompson\Desktop\TurboSquidFiles\architecture\textures\LIMESTO3_BUMP.jpg
+C:\Documents and Settings\Dink Thompson\Desktop\TurboSquidFiles\architecture\textures\WHTCONC1.JPG

@@ -1,0 +1,85 @@
+fileFormatVersion: 1
+guid: e9b19ca7684dabd488ec9043e398ca1a
+ModelImporter:
+  importerVersion: 7
+  meshes:
+    scaleFactor: 0.01
+    useFileUnits: 1
+    meshCompression: 0
+    generateColliders: 0
+    swapUVs: 0
+  tangentSpace:
+    normalImportMode: 0
+    tangentImportMode: 1
+    smoothingAngle: 60
+    splitTangents: 1
+  materials:
+    generation: 1
+  animations:
+    generation: 3
+    bakeAnimations: 0
+    animationCompression: 1
+    animationWrapMode: 0
+    splitAnimations: 1
+  nodeInfo:
+    //RootNode:
+    - 100000
+    - 400000
+    - 11100000
+    attach 1:
+    - 100002
+    - 400002
+    - 3300000
+    - 2300000
+    Object06:
+    - 100004
+    - 400004
+    - 3300002
+    - 2300002
+    Object04:
+    - 100006
+    - 400006
+    - 3300004
+    - 2300004
+    Object03:
+    - 100008
+    - 400008
+    - 3300006
+    - 2300006
+    Box01:
+    - 100010
+    - 400010
+    - 3300008
+    - 2300008
+    Omni01:
+    - 100012
+    - 400012
+    Omni02:
+    - 100014
+    - 400014
+    attach 2:
+    - 100016
+    - 400016
+    - 3300010
+    - 2300010
+    Object01:
+    - 100018
+    - 400018
+    - 3300012
+    - 2300012
+    Spiral Tower Front Right:
+    - 100020
+    - 400020
+    - 3300014
+    - 2300014
+AssetImporter:
+  importerVersion: 1
+  fileIDToRecycleName:
+    4300000: Spiral Tower Front Right
+    4300002: Object01
+    4300004: Object03
+    4300006: Object04
+    4300008: attach 2
+    4300010: Object06
+    4300012: attach 1
+    4300014: Box01
