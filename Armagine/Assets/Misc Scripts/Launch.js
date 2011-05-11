@@ -26,6 +26,10 @@ function Update()
 {
 	//var instantiatedProjectile : Rigidbody = Instantiate(arm, transform.position, transform.rotation );
 	//instantiatedProjectile.velocity = transform.TransformDirection( Vector3( 0, 0, speed ) );
+	if (Input.GetKeyDown(KeyCode.BackQuote))
+	{
+		Application.LoadLevel(Application.loadedLevel);
+	}
 	
 	if( Input.GetMouseButton( 0 ) && !launched)//Left-mouse button is being held down and arm isn't launched - project the path
 	{
