@@ -6,6 +6,12 @@ var dist = 3;//Variable for how close the arm must be to you, when reeling in, f
 static var launched = false;//Is it launched?
 static var grabbed = false;//Is it grabbing something?
 
+function OnLevelWasLoaded()
+{
+	launched = false;
+	grabbed = false;
+}
+
 function Update()
 {
 	//var instantiatedProjectile : Rigidbody = Instantiate(arm, transform.position, transform.rotation );
