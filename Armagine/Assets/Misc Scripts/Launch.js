@@ -31,6 +31,11 @@ function Update()
 		Application.LoadLevel(Application.loadedLevel);
 	}
 	
+	if (Input.GetKeyDown(KeyCode.Escape))
+	{
+		Application.Quit();
+	}
+	
 	if( Input.GetMouseButton( 0 ) && !launched)//Left-mouse button is being held down and arm isn't launched - project the path
 	{
 		//Create path
