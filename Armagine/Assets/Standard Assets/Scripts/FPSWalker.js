@@ -34,12 +34,10 @@ function FixedUpdate() {
 	
 	if (hasKey)
 	{
+		hasKey = false;
 		var door = GameObject.FindWithTag("Door");
-		if (Vector3.Distance(transform.position, door.transform.position) < doorDistance)
-		{
-			hasKey = false;
-			door.hingeJoint.limits.min = -90;
-		}
+		door.hingeJoint.limits.min = -90;
+		
 	}
 }
 

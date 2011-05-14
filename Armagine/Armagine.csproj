@@ -58,6 +58,7 @@
      <None Include="Assets\Misc Scripts\Launch.js" />
      <None Include="Assets\Misc Scripts\LoadGame.js" />
      <None Include="Assets\Misc Scripts\MusicPlayer.js" />
+     <None Include="Assets\Misc Scripts\Rotate.js" />
      <None Include="Assets\Misc Scripts\DrawRockets.js" />
      <None Include="Assets\Misc Scripts\Arm.js" />
      <None Include="Assets\Misc Scripts\LevelLoadFade.js" />
