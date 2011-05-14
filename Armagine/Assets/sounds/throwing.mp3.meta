@@ -3,7 +3,7 @@ guid: b742670d42f1de14085502ceb210905d
 AudioImporter:
   importerVersion: 4
   format: 0
-  quality: 0.12
+  quality: 0
   3d: 1
   forceToMono: 0
   stream: 1
