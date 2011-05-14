@@ -1,20 +1,12 @@
 fileFormatVersion: 1
-<<<<<<< HEAD
-guid: 310849fab46073a43a8a9cb5f864a749
-=======
 guid: 970de002c1659204e9c4f75de8d38008
->>>>>>> 11b04935a0a070be4734fb00a60bd517fdbcde74
 ModelImporter:
   importerVersion: 7
   meshes:
     scaleFactor: 0.01
     useFileUnits: 1
     meshCompression: 0
-<<<<<<< HEAD
-    generateColliders: 0
-=======
     generateColliders: 1
->>>>>>> 11b04935a0a070be4734fb00a60bd517fdbcde74
     swapUVs: 0
   tangentSpace:
     normalImportMode: 0
@@ -35,10 +27,7 @@ ModelImporter:
     - 400000
     - 3300000
     - 2300000
-<<<<<<< HEAD
-=======
     - 6400000
->>>>>>> 11b04935a0a070be4734fb00a60bd517fdbcde74
     - 11100000
 AssetImporter:
   importerVersion: 1
