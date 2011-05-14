@@ -19,6 +19,10 @@ function FixedUpdate() {
 			moveDirection.y = jumpSpeed;
 		}
 	}
+	
+	if (transform.position.y < -3) {
+		Application.LoadLevel(Application.loadedLevel);
+	}
 
 	// Apply gravity
 	moveDirection.y -= gravity * Time.deltaTime;

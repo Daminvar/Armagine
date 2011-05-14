@@ -38,6 +38,7 @@ function Update()
 	else if( Input.GetMouseButtonUp( 0 ) && !launched)//Left-mouse button is released and arm wasn't launched
 	{
 		//Launch the arm
+		audio.Play();
 		var arm = Instantiate(baseArm, transform.position, transform.rotation );		
 		arm.velocity = transform.TransformDirection( Vector3( 0, pitchSpeed, speed ) );
 		launched = true;
