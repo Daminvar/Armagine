@@ -1,9 +1,9 @@
 Direct3D:
-    Version:  Direct3D 9.0c [nvd3dum.dll 8.17.12.6658]
-    Renderer: NVIDIA GeForce GTX 480
+    Version:  Direct3D 9.0c [nvd3dum.dll 8.17.12.7061]
+    Renderer: NVIDIA GeForce GTX 260
     Vendor:   NVIDIA
-    VRAM:     1536 MB
+    VRAM:     896 MB
     Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 DF24=0 INTZ=1 RAWZ=0 NULL=1 RESZ=0 SlowINTZ=0
-desktop: 1680x1050 60Hz; virtual: 3600x1080 at 0,0
+desktop: 1920x1080 60Hz; virtual: 3360x1080 at 0,0
 <I> Initializing (RawInput).
 <RI> Input initialized.
