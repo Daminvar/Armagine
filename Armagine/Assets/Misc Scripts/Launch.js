@@ -31,6 +31,16 @@ function Update()
 		Application.LoadLevel(Application.loadedLevel);
 	}
 	
+	if (Input.GetKeyDown(KeyCode.KeypadPlus))
+	{
+		Application.LoadLevel(Application.loadedLevel + 1);
+	}
+	
+	if (Input.GetKeyDown(KeyCode.KeypadMinus))
+	{
+		Application.LoadLevel(Application.loadedLevel - 1);
+	}
+	
 	if (Input.GetKeyDown(KeyCode.Escape))
 	{
 		Application.Quit();
@@ -44,7 +54,8 @@ function Update()
 	{
 		//Launch the arm
 		audio.Play();
-		var arm = Instantiate(baseArm, transform.position, transform.rotation );		
+		var arm = Instantiate(baseArm, transform.position, transform.rotation );
+		arm.name = "arm";
 		arm.velocity = transform.TransformDirection( Vector3( 0, pitchSpeed, speed ) );
 		launched = true;
 	}
