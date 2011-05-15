@@ -7,3 +7,41 @@ Direct3D:
 desktop: 1920x1080 60Hz; virtual: 3360x1080 at 0,0
 <I> Initializing (RawInput).
 <RI> Input initialized.
+Non platform assembly: data-03366BC0 (this message is harmless)
+Non platform assembly: data-033CAFE0 (this message is harmless)
+Non platform assembly: data-033D3000 (this message is harmless)
+Non platform assembly: data-033D5BF8 (this message is harmless)
+The referenced script on this Behaviour is missing!
+ 
+(Filename: C:/BuildAgent/work/6bc5f79e0a4296d6/Runtime/Mono/MonoBehaviour.cpp Line: 1768)
+
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 123.
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 123.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+The referenced script on this Behaviour is missing!
+ 
+(Filename: C:/BuildAgent/work/6bc5f79e0a4296d6/Runtime/Mono/MonoBehaviour.cpp Line: 1768)
+
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 125.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 125.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1093.
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+Platform assembly: D:\My Documents\Coolege\GDD2\ArmagineFinal\Armagine\Armagine_Data\Managed\Boo.Lang.dll (this message is harmless)
+Platform assembly: D:\My Documents\Coolege\GDD2\ArmagineFinal\Armagine\Armagine_Data\Managed\UnityScript.Lang.dll (this message is harmless)
+
+Unloading 27 unused Assets to reduce memory usage. Loaded Objects now: 1453.
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 2482.
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 27 unused Assets to reduce memory usage. Loaded Objects now: 2498.
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
